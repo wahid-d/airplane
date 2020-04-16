@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana Lee (Haiinn)_Airplane.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana_Lee__Haiinn__Airplane.Form1.resources
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana_Lee__Haiinn__Airplane.Properties.Resources.resources
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana Lee (Haiinn)_Airplane.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana Lee (Haiinn)_Airplane.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\bin\Debug\Liana Lee (Haiinn)_Airplane.exe.config
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\bin\Debug\Liana Lee (Haiinn)_Airplane.exe
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\bin\Debug\Liana Lee (Haiinn)_Airplane.pdb
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana Lee (Haiinn)_Airplane.exe
+\\Mac\Home\Desktop\Liana Lee (Haiinn)_Airplane\obj\Debug\Liana Lee (Haiinn)_Airplane.pdb
